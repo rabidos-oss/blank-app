@@ -1,1 +1,6 @@
 streamlit
+pandas
+plotly
+xlsxwriter
+reportlab
+st-gsheets-connection
